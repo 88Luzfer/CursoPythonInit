@@ -1,0 +1,6 @@
+#Este documento se escribe para dejar documentada la llamada a system de python y poder ver los módulos del sistema de cara a realizar su posterior importación:
+
+>>> import sys
+>>> sys.builtin_module_names
+
+# Con esto el interprete de python nos devuelve la lista de módulos que son importables a nuestros programas.
